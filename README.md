@@ -1,11 +1,11 @@
 # lab-14
 
-Number and name of feature: ________________________________
+Number and name of feature: PSQL 6 queries
 
-Estimate of time needed to complete: _____
+Estimate of time needed to complete: 30
 
-Start time: _____
+Start time: 11:10pm
 
-Finish time: _____
+Finish time: 12:00am
 
-Actual time needed to complete: _____
+Actual time needed to complete: 40min
